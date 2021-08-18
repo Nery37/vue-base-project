@@ -1,4 +1,4 @@
-# Finn Seguros App
+# Teladoc
 
 ## Project setup
 ```
